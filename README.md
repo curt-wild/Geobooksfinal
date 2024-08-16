@@ -1,1 +1,1 @@
-An appity appity for bookities
+An app for books
